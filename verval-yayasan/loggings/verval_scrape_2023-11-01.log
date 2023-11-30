@@ -1,0 +1,45 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+province done in: 5.699768781661987 seconds
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+province done in: 2.4196372032165527 seconds
+getting kabupaten/kota
+kabupaten done in: 34.59035086631775
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+province done in: 2.7478036880493164 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0034952163696289062
+getting kecamatan
+get kecamatan done in: 68.07474946975708
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+province done in: 2.7076029777526855 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0029916763305664062
+getting kecamatan
+get kecamatan done in: 0.0009970664978027344
+getting yayasan
+get yayasan done in: 29.80459475517273
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+province done in: 5.643005132675171 seconds
+getting kabupaten/kota
+kabupaten done in: 0.041188716888427734
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.009789466857910156
+getting yayasan profiles
+get yayasan profiles done in: 120.10933709144592

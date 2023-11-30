@@ -1,0 +1,328 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 3.5483782291412354 seconds
+getting kabupaten/kota
+kabupaten done in: 0.011317968368530273
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.02716660499572754
+getting yayasan profiles
+additional_npyp_urls []
+yayasan_profiles                           NPSN  ... Kode Yayasan
+0   No data available in table  ...       AJ5740
+1                     90101019  ...       AJ5726
+2                     9LN01037  ...       AJ5733
+3   No data available in table  ...       AJ5730
+4                     90101018  ...       AJ5727
+5   No data available in table  ...       AJ5728
+6   No data available in table  ...       AJ5731
+7   No data available in table  ...       AJ5739
+8   No data available in table  ...       AJ5734
+9   No data available in table  ...       AJ5729
+10  No data available in table  ...       AJ5732
+11  No data available in table  ...       AJ5723
+12  No data available in table  ...       AJ5738
+13  No data available in table  ...       AJ5735
+14  No data available in table  ...       AJ5725
+15  No data available in table  ...       AJ5742
+16  No data available in table  ...       AL9404
+17  No data available in table  ...       AJ5741
+18                    9LN01148  ...       AJ5737
+19  No data available in table  ...       AL9405
+20                    69980076  ...       AL9402
+21                    69914314  ...       AL9406
+22                    69959388  ...       AL9403
+23  No data available in table  ...       AJ5736
+24                    P9970165  ...       AX8531
+25  No data available in table  ...       AJ5724
+26                    69969444  ...       AL9410
+27  No data available in table  ...       AL9386
+28  No data available in table  ...       AL9413
+29                    69954182  ...       AL9407
+30                    69844706  ...       AL9408
+31  No data available in table  ...       AL9414
+32                    69939291  ...       AL9387
+33                    69844795  ...       AL9411
+34                    69914453  ...       AL9388
+35  No data available in table  ...       AL9415
+36                    69844703  ...       AL9409
+37                    69844759  ...       AL9409
+38                    69914312  ...       AL9412
+39  No data available in table  ...       AL9395
+40                    69844794  ...       AL9389
+41                    69916291  ...       AL9392
+42  No data available in table  ...       AL9398
+43                    69955417  ...       AL9396
+44                    69984266  ...       AL9393
+45                    69914449  ...       AL9390
+46                    69956658  ...       AL9390
+47                    69911556  ...       AL9399
+48                    69980266  ...       AL9397
+49                    69914447  ...       AL9394
+50                    69844756  ...       AL9391
+51                    69968233  ...       AL9400
+
+[52 rows x 20 columns]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.5736942291259766 seconds
+getting kabupaten/kota
+kabupaten done in: 0.008904695510864258
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.0075414180755615234
+getting yayasan profiles
+additional_npyp_urls ['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2899B7F2-492D-45B0-90FE-B9F87ADAE561', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D23EE1EA-98C2-436C-B57F-5AC249F930B0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=B801BC5B-7470-43B6-92C4-6EB0E92529CE', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9509361B-9957-4E34-8398-8299989113EF']
+masuk1
+2
+masuk1
+2
+masuk1
+previous additional npyp still cannot be proccessed after third retry:
+https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=B801BC5B-7470-43B6-92C4-6EB0E92529CE
+https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D23EE1EA-98C2-436C-B57F-5AC249F930B0
+https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2899B7F2-492D-45B0-90FE-B9F87ADAE561
+https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9509361B-9957-4E34-8398-8299989113EF
+yayasan_profiles                          NPSN  ... Kode Yayasan
+0  No data available in table  ...       AJ5723
+1  No data available in table  ...       AJ5739
+2  No data available in table  ...       AJ5738
+3  No data available in table  ...       AJ5740
+4  No data available in table  ...       AJ5723
+5  No data available in table  ...       AJ5738
+6  No data available in table  ...       AJ5740
+7  No data available in table  ...       AJ5739
+
+[8 rows x 20 columns]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v118_0_5993_70\chromedriver.exe
+getting provices
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.999049425125122 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.00994563102722168
+getting yayasan profiles
+additional_npyp_urls []
+yayasan_profiles                          NPSN  ... Kode Yayasan
+0  No data available in table  ...     (AJ5740)
+1  No data available in table  ...     (AJ5739)
+2  No data available in table  ...     (AJ5723)
+3  No data available in table  ...     (AJ5738)
+
+[4 rows x 20 columns]
+                         NPSN  ... Kode Yayasan
+0  No data available in table  ...     (AJ5740)
+1  No data available in table  ...     (AJ5739)
+2  No data available in table  ...     (AJ5723)
+3  No data available in table  ...     (AJ5738)
+
+[4 rows x 20 columns]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 7.0214903354644775 seconds
+getting kabupaten/kota
+kabupaten done in: 1.1721229553222656
+getting kecamatan
+get kecamatan done in: 0.0019931793212890625
+getting yayasan
+get yayasan done in: 0.004983425140380859
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 3.460165023803711 seconds
+getting kabupaten/kota
+kabupaten done in: 0.756065845489502
+getting kecamatan
+get kecamatan done in: 0.0006661415100097656
+getting yayasan
+get yayasan done in: 0.005403280258178711
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.3420205116271973 seconds
+getting kabupaten/kota
+kabupaten done in: 0.6006836891174316
+getting kecamatan
+get kecamatan done in: 0.016211509704589844
+getting yayasan
+get yayasan done in: 0.002999544143676758
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.6430182456970215 seconds
+getting kabupaten/kota
+kabupaten done in: 0.6192710399627686
+getting kecamatan
+111111
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.007613420486450195
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 3.678140640258789 seconds
+getting kabupaten/kota
+kabupaten done in: 0.603259801864624
+getting kecamatan
+get kecamatan done in: 0.0008249282836914062
+getting yayasan
+get yayasan done in: 0.006122112274169922
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 3.888665199279785 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0212557315826416
+getting kecamatan
+get kecamatan done in: 0.0002560615539550781
+getting yayasan
+get yayasan done in: 0.022408723831176758
+getting yayasan profiles
+additional_npyp_urls []
+yayasan_profiles                          NPSN  ... Kode Yayasan
+0  No data available in table  ...     (AJ5740)
+1  No data available in table  ...     (AJ5739)
+2  No data available in table  ...     (AJ5723)
+3  No data available in table  ...     (AJ5738)
+
+[4 rows x 20 columns]
+                         NPSN  ... Kode Yayasan
+0  No data available in table  ...     (AJ5740)
+1  No data available in table  ...     (AJ5739)
+2  No data available in table  ...     (AJ5723)
+3  No data available in table  ...     (AJ5738)
+
+[4 rows x 20 columns]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.7867422103881836 seconds
+getting kabupaten/kota
+kabupaten done in: 33.907108783721924
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.006566762924194336
+getting yayasan profiles
+additional_npyp_urls []
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.8071541786193848 seconds
+getting kabupaten/kota
+kabupaten done in: 0.003987312316894531
+getting kecamatan
+get kecamatan done in: 0.0019936561584472656
+getting yayasan
+get yayasan done in: 0.005980730056762695
+getting yayasan profiles
+additional_npyp_urls []
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.468888759613037 seconds
+getting kabupaten/kota
+kabupaten done in: 0.003984928131103516
+getting kecamatan
+get kecamatan done in: 0.0019943714141845703
+getting yayasan
+get yayasan done in: 0.0059778690338134766
+getting yayasan profiles
+additional_npyp_urls []
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 5.567986726760864 seconds
+getting kabupaten/kota
+kabupaten done in: 0.024616241455078125
+getting kecamatan
+get kecamatan done in: 14.867796897888184
+getting yayasan
+get yayasan done in: 0.026145458221435547
+getting yayasan profiles
+additional_npyp_urls []
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.7683987617492676 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 2.7244224548339844 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0
+getting kecamatan
+get kecamatan done in: 0.0009963512420654297
+getting yayasan
+get yayasan done in: 9.690083503723145
+getting yayasan profiles
+additional_npyp_urls []
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v119_0_6045_105\chromedriver.exe
+getting provices
+province done in: 3.9840192794799805 seconds
+getting kabupaten/kota
+kabupaten done in: 0.0
+getting kecamatan
+get kecamatan done in: 0.0
+getting yayasan
+get yayasan done in: 0.003987789154052734
+getting yayasan profiles
+additional_npyp_urls []
+yayasan_profiles                           NPSN  ... Kode Yayasan
+0   No data available in table  ...       AA1593
+1                     69785512  ...       AA1592
+2                     69783674  ...       AA1594
+3                     69785516  ...       AA1591
+4                     69879797  ...       AA1598
+5                     69785567  ...       AA1596
+6                     69785527  ...       AA1595
+7                     69785588  ...       AA1597
+8                     69785561  ...       AA1602
+9                     69952214  ...       AA1601
+10                    69785565  ...       AA1599
+11                    69785589  ...       AA1600
+12                    69879798  ...       AA1605
+13                    69785587  ...       AA1606
+14                    69785558  ...       AA1604
+15                    20268194  ...       AA1603
+
+[16 rows x 20 columns]
+get yayasan profiles done in: 64.57801747322083
