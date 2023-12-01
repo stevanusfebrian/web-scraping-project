@@ -3,6 +3,11 @@ This repo is from requested project to scrape data from:
 1. Dapodik 
 2. VervalYayasan
 
+# Projects:
+1. dapodik-rekapitulasi: getting school recap of all available semester (status: done)
+2. dapodik-school-profiles: getting school profile data (status: not done, progress (31 partitions scraped out of 100 partitions))
+3. verval-yayasan: getting yayasan profile data, sekolah naungan, cabang yayasan (status: done)
+
 # Result Dataset
 the result dataset is store seperated because this code uploaded to github and the size of the result of each project cannot fit in to github repo
 
@@ -14,5 +19,12 @@ here i help to explaining each project in this [video link](https://binusianorg-
 2. what data to get 
 3. setup
 4. explaining what the code does
+
+# dapodik-school-profiles
+to continue the scrape, you need to change the range of `for loop` red block shown below:
+- currently it already scrape the 31st partition, so it needs to continue the 32-100 partition
+- don't forget to rename the file in the orange block below
+![code](https://github.com/stevanusfebrian/web-scraping-project/assets/100825866/29784dcf-663f-4a12-ad54-d6121776fd46)
+
 
 Thanks.
